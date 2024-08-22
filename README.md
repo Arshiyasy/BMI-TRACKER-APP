@@ -10,6 +10,11 @@
 
 **Mentor:**  MUZAMMIL AHMED
 
+**OVERVIEW OF THE BMI TRACKER APP:**
+
+This project serves as a foundation for a more comprehensive health-tracking application, with the potential for significant enhancements based on user needs and data-driven insights.
+
+
 **Objective**
 
 The primary objective of the BMI Tracker App is to provide users with an easy-to-use tool that calculates their Body Mass Index (BMI) based on their input for height and weight. The app categorizes the BMI into different health categories (underweight, normal weight, overweight, and obesity), providing users with insights into their health status. This project serves as a foundational step towards integrating more advanced machine learning features for personalized health recommendations.
